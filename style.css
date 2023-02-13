@@ -1,0 +1,213 @@
+nav {
+  background-color: #020202;
+}
+#contact {
+  color: #72acc7;
+  background-color: transparent;
+  outline-color: transparent;
+}
+#contact:hover {
+  color: #89cff0;
+}
+
+.jumbotron {
+  padding-top: 8rem;
+  padding-bottom: 10rem;
+  background-color: #020202;
+}
+h1 {
+  font-family: 'Kanit';
+  font-size: 40px;
+}
+#me {
+  padding-top: 3rem;
+}
+#status {
+  font-family: 'Roboto';
+  color: #89cff0;
+}
+#about {
+  font-family: 'Roboto';
+  text-align: justify;
+}
+.btn {
+  background-color: #72acc7;
+}
+.btn:hover {
+  background-color: #89cff0;
+}
+.bi-download {
+  color: #b0b0b0;
+}
+.bi-download:hover {
+  color: #89cff0;
+}
+.ellipse {
+  filter: drop-shadow(0px 0px 250px #89cff0);
+  background-color: #222222;
+  border-radius: 100%;
+  width: 100%;
+  padding-top: 100%;
+  position: relative;
+  transform-style: preserve-3d;
+}
+#not {
+  position: absolute;
+  top: 75px;
+  left: 16%;
+  transform: translate3d(0, 0, 0px);
+  transition: 2s;
+}
+.ellipse:hover #not {
+  top: 75px;
+  left: 15%;
+  transform: translate3d(0, -5px, 10px);
+}
+#or {
+  position: absolute;
+  top: 120px;
+  left: 65%;
+  transform: translate3d(0, 0, 0px);
+  transition: 2s;
+}
+.ellipse:hover #or {
+  position: absolute;
+  top: 120px;
+  left: 65%;
+  transform: translate3d(5px, 0, 20px);
+}
+#taufik {
+  position: absolute;
+  width: 70%;
+  height: 90%;
+  top: 0px;
+  left: 14%;
+  transform: translate3d(0, 0, 0px);
+  transition: 2s;
+}
+.ellipse:hover #taufik {
+  position: absolute;
+  width: 70%;
+  height: 90%;
+  top: 00px;
+  left: 15%;
+  transform: translate3d(0, 0, 30px);
+}
+#and {
+  position: absolute;
+  top: 225px;
+  transform: translate3d(0, 0, 0px);
+  transition: 2s;
+}
+.ellipse:hover #and {
+  position: absolute;
+  top: 225px;
+  transform: translate3d(-5px, 0, 40px);
+}
+
+#project {
+  padding-bottom: 7.5rem;
+  background-color: #020202;
+}
+h2 {
+  font-family: 'Kanit';
+  font: bold;
+  color: #89cff0;
+}
+h5 {
+  font-family: 'Kanit';
+  font: bold;
+  color: #ffffff;
+  background-color: rgba(66, 66, 66, 0.5);
+}
+.carousel-control-prev {
+  height: 80%;
+}
+.carousel-control-next {
+  height: 80%;
+}
+#p-des-1 {
+  font-family: 'Roboto';
+  font-weight: bold;
+  font-size: 18px;
+}
+#p-des-2 {
+  font-family: 'Roboto';
+  font-size: 16px;
+  color: #89cff0;
+}
+#p-des-3 {
+  font-family: 'Roboto';
+  font-size: 12px;
+}
+#p-des-4 {
+  font-family: 'Roboto';
+  font-size: 14px;
+  text-align: justify;
+}
+
+#certificates {
+  padding-bottom: 3rem;
+  background-color: #020202;
+}
+.card {
+  filter: drop-shadow(0px 0px 2.5px #89cff0);
+}
+.code-excel {
+  font-family: 'Roboto';
+  font-size: 12px;
+  padding-top: 0.6rem;
+}
+.code-word {
+  font-family: 'Roboto';
+  font-size: 12px;
+  padding-top: 0.6rem;
+}
+h6 {
+  font-family: 'Roboto';
+  font-weight: bold;
+  font-size: 16px;
+}
+p6 {
+  font-family: 'Roboto';
+  font-size: 14px;
+  text-align: justify;
+}
+
+footer {
+  background-color: #000000;
+}
+h3 {
+  font-family: 'Kanit';
+  font-weight: bold;
+  font-size: 20px;
+  color: #89cff0;
+}
+.bi-envelope-fill {
+  font-size: 20px;
+  color: #72acc7;
+}
+.bi-envelope-fill:hover {
+  color: #89cff0;
+}
+.bi-whatsapp {
+  font-size: 18px;
+  color: #ffffff;
+}
+.bi-whatsapp:hover {
+  color: #89cff0;
+}
+.bi-linkedin {
+  font-size: 18px;
+  color: #ffffff;
+}
+.bi-linkedin:hover {
+  color: #89cff0;
+}
+.bi-balloon-heart-fill {
+  color: #89cff0;
+}
+
+section {
+  padding-top: 5rem;
+}

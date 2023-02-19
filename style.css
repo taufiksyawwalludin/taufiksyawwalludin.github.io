@@ -56,12 +56,6 @@ h1 {
 .btn:hover {
   background-color: #89cff0;
 }
-.bi-download {
-  color: #b0b0b0;
-}
-.bi-download:hover {
-  color: #89cff0;
-}
 .ellipse {
   filter: drop-shadow(0px 0px 10px #89cff0);
   background-color: #222222;
